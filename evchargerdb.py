@@ -1,6 +1,7 @@
+# Reference: https://chargepoints.dft.gov.uk/api/help
+
 import requests
 import json
-
 URL ="https://chargepoints.dft.gov.uk/api/retrieve/registry/"
 #URL+="lat/50.876381/
 #URL+="long/-1.245401/"
